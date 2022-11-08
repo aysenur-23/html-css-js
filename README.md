@@ -33,7 +33,7 @@ body etiketinden arka plan rengini ayarlıyoruz.
          
 siteden resim alma ve resim gösterilemediğinde görüntülenecek yazı oluşturma 
      <img
-     src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiratracing.com%2F&psig=AOvVaw07Ycg5IAscJMizT9MIJbJs&ust=1667992042939000&source=images&cd=vfe&         ved=0CA0QjRxqFwoTCIiirty4nvsCFQAAAAAdAAAAABAE](https://firatracing.com/wp-content/uploads/2022/07/elsefr01_guncel-scaled.jpg"
+     src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiratracing.com%2F&psig=AOvVaw07Ycg5IAscJMizT9MIJbJs&ust=1667992042939000&source=images&cd=vfe&         ved=0CA0QjRxqFwoTCIiirty4nvsCFQAAAAAdAAAAABAE](https://firatracing.com/wp-content/uploads/2022/07/elsefr01_guncel-scaled.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiratracing.com%2F&psig=AOvVaw3ddOlXCyIxzLNKMedJOouL&ust=1667992590780000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjFyuG6nvsCFQAAAAAdAAAAABAE"
      width="200"
      alt="Firat Racing"
      />
