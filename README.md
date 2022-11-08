@@ -32,9 +32,9 @@ body etiketinden arka plan rengini ayarlıyoruz.
 ![resim](https://user-images.githubusercontent.com/59085587/200548298-f9cf3828-5036-42d8-abcb-ec7cf9f0674e.png)
          
 siteden resim alma ve resim gösterilemediğinde görüntülenecek yazı oluşturma 
-    <img
-    src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiratracing.com%2F&psig=AOvVaw07Ycg5IAscJMizT9MIJbJs&ust=1667992042939000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiirty4nvsCFQAAAAAdAAAAABAE"
-    width="200"
-    alt="Firat Racing"
-    />
+     <img
+     src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiratracing.com%2F&psig=AOvVaw07Ycg5IAscJMizT9MIJbJs&ust=1667992042939000&source=images&cd=vfe&         ved=0CA0QjRxqFwoTCIiirty4nvsCFQAAAAAdAAAAABAE"
+     width="200"
+     alt="Firat Racing"
+     />
 
