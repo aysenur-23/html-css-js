@@ -9,5 +9,5 @@ h1'den h6'ya kadar başlık boyutu ayarlanabilir. h1'den h6'ya doğru gidildikç
 
 ![resim](https://user-images.githubusercontent.com/59085587/200503531-b670c018-095b-4167-acd6-8b33b71a0ade.png)
 
-<p> Bu etiketler arasına paragraf yazılır. </p>
+"<p> </p>" Bu etiketler arasına paragraf yazılır. 
 
