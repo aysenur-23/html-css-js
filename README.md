@@ -11,3 +11,4 @@ h1'den h6'ya kadar başlık boyutu ayarlanabilir. h1'den h6'ya doğru gidildikç
 
 "< p >  < /p >" Bu etiketler arasına paragraf yazılır. 
 
+" < br > " etiketi alt satıra geöme etiketidir.
