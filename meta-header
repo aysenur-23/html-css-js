@@ -1,0 +1,23 @@
+<!DOCTYPE html> <!-- bu dokümanın html dokümanı olduğunu belirtir -->
+<html>
+
+  <head> <!-- web sayfasının başlığı ve etiketler, body'nin içinde olmazsa web sitede gözükmez -->
+
+      <title>"This is a website"</title>
+      <!-- web sayfasının özellikleri meta etiketiyle yazılır -->
+      <meta charset="UTF-8"/> <!-- kullanılan karakter türünü belirtir -->
+      <meta name = "keywords" content = "Java,Python, Javascript" /> <!-- sitenin anahtar kelimeleri -->
+      <meta name="description" content="html programming course"> <!--tanımlama-->
+      <meta name="author" content="Ayse Nur Aslan">
+  </head>
+
+  <body> <!-- web sayfasının içeriğini gösterdiğimiz kısım -->
+  <h1>BAŞLIK</h1> <!-- Ana başlık ekleme -->
+  <h2>BAŞLIK</h2> <!--alt başlık -->
+  <h3>BAŞLIK</h3>
+  <h4>BAŞLIK</h4> <!-- sayı arttıkça punto küçülür-->
+  <h6>BAŞLIK</h6> <!--en küçük başlık -->
+  </body>
+
+</html>
+
