@@ -34,3 +34,8 @@ body etiketinden arka plan rengini ayarlıyoruz.
  Liste ve alt liste oluşturuldu.
 
 ![image](https://user-images.githubusercontent.com/59085587/201338609-04209319-5ae1-40e2-ae28-b18f41b017c3.png)
+
+Web siteye video eklendi.
+
+![image](https://user-images.githubusercontent.com/59085587/201341244-3e057613-59e1-46de-a5c1-28b35de553f5.png)
+
