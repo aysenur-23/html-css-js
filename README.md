@@ -21,20 +21,16 @@ body etiketinden arka plan rengini ayarlıyoruz.
 
 ![resim](https://user-images.githubusercontent.com/59085587/200520190-18ca0e30-d4e4-4e8d-88d9-89435092e321.png)
 
- -strong etiketiyle yazıyı kalınlaştırabiliriz
- -em etiketi içine aldığımız yazı italik yazılır 
- -small etiketine alınan metin daha küçük yazılır 
- -mark etiketine alınan metin işaretlernir 
- -pre etiketinin arasına yazılan metin yazıldığı formatta kalır
- -href ile link veriyoruz, linkin yeni sekmede açılması için target="-blank" komutu kullanılır
- -title ile isim veriyoruz, linkin üstünde durulduğunda o isim görünür
+ -strong etiketiyle yazıyı kalınlaştırabiliriz.
+ -em etiketi içine aldığımız yazı italik yazılır.
+ -small etiketine alınan metin daha küçük yazılır.
+ -mark etiketine alınan metin işaretlernir.
+ -pre etiketinin arasına yazılan metin yazıldığı formatta kalır.
+ -href ile link veriyoruz, linkin yeni sekmede açılması için target="-blank" komutu kullanılır.
+ -title ile isim veriyoruz, linkin üstünde durulduğunda o isim görünür.
          
 ![resim](https://user-images.githubusercontent.com/59085587/200548298-f9cf3828-5036-42d8-abcb-ec7cf9f0674e.png)
-         
-siteden resim alma ve resim gösterilemediğinde görüntülenecek yazı oluşturma 
-     <img
-     src= "www.firatracing.com"
-     width="200"
-     alt="Firat Racing"
-     />
+ 
+ Liste ve alt liste oluşturuldu.
 
+![image](https://user-images.githubusercontent.com/59085587/201338609-04209319-5ae1-40e2-ae28-b18f41b017c3.png)
