@@ -12,7 +12,7 @@ h1'den h6'ya kadar başlık boyutu ayarlanabilir. h1'den h6'ya doğru gidildikç
 
 "< p >  < /p >" Bu etiketler arasına paragraf yazılır. 
 
-" < br > " etiketi alt satıra geöme etiketidir.
+" < br > " etiketi alt satıra geçme etiketidir.
 " < hr >" koyulduğu yere çizgi çeker
 ![resim](https://user-images.githubusercontent.com/59085587/200517347-cf21747e-1ca7-4032-b82d-2d3357e88683.png)
 
